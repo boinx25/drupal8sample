@@ -1,0 +1,11 @@
+/**
+ * Place your custom styles here.
+ */
+.hero{
+	margin-bottom: 25px;
+}
+
+.hero .hero-image{
+	width: 100%;
+	height: 300px;
+}
